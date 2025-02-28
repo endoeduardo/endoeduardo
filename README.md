@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Eduardo Endo
 
-<!--
-**endoeduardo/endoeduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Engineer | Web Scraping Specialist**  
+📍 Based in Brazil 🇧🇷  
+🔬 Background in **Chemical Engineering**  
+📊 Experienced in **Python, SQL, Scrapy, Airflow, GCP**  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:
+- 🐍 Python | SQL | R
+- ☁️ Google Cloud Platform (BigQuery, Cloud Functions)
+- 🕷️ Web Scraping (Scrapy, Playwright)
+- 📊 Databases: PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoendo&show_icons=true&theme=dark)
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardoendo-blue?logo=linkedin)](https://www.linkedin.com/in/eduardoendo/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:your.email@example.com)
+
