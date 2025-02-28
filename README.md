@@ -26,7 +26,7 @@
 - 📊 Databases: PostgreSQL, MongoDB
 
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endoeduardo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endoeduardo&layout=compact&theme=dark)
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardoendo-blue?logo=linkedin)](https://www.linkedin.com/in/eduardo-endo-0a46a5138/)
